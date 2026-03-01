@@ -1,0 +1,26 @@
+{
+    "101": {
+        "id": "101",
+        "nombre": "Laptop",
+        "cantidad": 5,
+        "precio": 850.0
+    },
+    "102": {
+        "id": "102",
+        "nombre": "Mouse",
+        "cantidad": 20,
+        "precio": 15.5
+    },
+    "103": {
+        "id": "103",
+        "nombre": "Teclado",
+        "cantidad": 12,
+        "precio": 9.75
+    },
+    "104": {
+        "id": "104",
+        "nombre": "Parlante",
+        "cantidad": 21,
+        "precio": 15.25
+    }
+}
